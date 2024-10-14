@@ -3,9 +3,10 @@
 </p>
 
 <p align="center">
- <img src="https://img.shields.io/badge/Ren'Py-7.4.11-grin" alt="[Ren'Py Version]">
- <img src="https://img.shields.io/badge/Follow_the_light-1.6-pink" alt="[Game Version]">
- <img src="https://img.shields.io/badge/License-MIT-blue" alt="[License]">
+ <img src="https://img.shields.io/badge/JavaFX-red" alt="[JavaFX Version]">
+ <img src="https://img.shields.io/badge/Kotlin-2.0.0-blue" alt="[JavaFX Version]">
+ <img src="https://img.shields.io/badge/AutoClicker-1.0-black" alt="[Application Version]">
+ <img src="https://img.shields.io/badge/License-MIT-pink" alt="[License]">
 </p>
 
 ## About
