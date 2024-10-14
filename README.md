@@ -15,12 +15,11 @@ An autoclicker with an intuitive interface and modern design, complemented by vi
 
 Please note: the use of autoclickers may be contrary to the rules of various games and applications. The author of the application is not responsible for possible blockages. Please use the autoclicker responsibly.
 
-## Gameplay
-<div style="overflow-x: auto;">
- <pre>
-  <img src="https://i.imgur.com/Rjuj3mX.png"> <img src="https://i.imgur.com/WqVXF3N.png"> <img src="https://i.imgur.com/b9TQg1i.png"> <img src=https://i.imgur.com/SQDx5Tq.png> <img src=https://i.imgur.com/NKgVwhT.png> <img src=https://i.imgur.com/a28Bgg8.png>
- </pre>
-</div>
+## Visual
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a1891d25-bc18-4ccd-8bd2-2cfa7226525b" alt="Visual">
+
+</p>
 
 
 ## Developers
