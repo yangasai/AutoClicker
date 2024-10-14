@@ -18,7 +18,7 @@ Please note: the use of autoclickers may be contrary to the rules of various gam
 ## Visual
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a1891d25-bc18-4ccd-8bd2-2cfa7226525b" alt="Visual">
-
+  <img src="https://github.com/user-attachments/assets/7051d95d-d560-4f7f-a5d2-17888338a18a" alt="Work">
 </p>
 
 
