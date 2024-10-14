@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\lunat\IdeaProjects\AutoClicker\out\artifacts\AutoClicker_jar\AutoClicker.jar</jar>
+  <outfile>C:\Users\lunat\IdeaProjects\AutoClicker\out\artifacts\AutoClicker_jar\AutoClicker.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl></downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon></icon>
+  <jre>
+    <path>C:\Program Files\Java\jre-1.8</path>
+    <requiresJdk>false</requiresJdk>
+    <requires64Bit>false</requires64Bit>
+    <minVersion>1.7.0</minVersion>
+    <maxVersion>1.9.0</maxVersion>
+  </jre>
+</launch4jConfig>

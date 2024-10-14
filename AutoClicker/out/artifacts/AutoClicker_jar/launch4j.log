@@ -1,0 +1,18 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\lunat\IdeaProjects\AutoClicker\out\artifacts\AutoClicker_jar\AutoClicker.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\lunat\IdeaProjects\AutoClicker\out\artifacts\AutoClicker_jar\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.007.000
+Java max ver:	1.009.000
+JRE paths:	C:\Program Files\Java\jre-1.8
+Check launcher:	C:\Program Files\Java\jre-1.8\bin\javaw.exe (OK)
+Version string: 1.008.000_401 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jre-1.8\bin\javaw.exe
+Launcher args:	-jar "C:\Users\lunat\IdeaProjects\AutoClicker\out\artifacts\AutoClicker_jar\AutoClicker.exe"
+Args length:	92/32768 chars
+Exit code:	0

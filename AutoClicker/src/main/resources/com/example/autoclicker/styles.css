@@ -1,0 +1,43 @@
+.root {
+    -fx-background-color: radial-gradient(radius 300%, #0b0b0b, #1e1f22);
+}
+
+.roundGif {
+    -fx-border-radius: 50%; /* Делает углы круглыми */
+    -fx-background-radius: 50%; /* Для фона */
+    -fx-border-color: #ffffff; /* Цвет границы */
+    -fx-border-width: 3px; /* Ширина границы */
+    -fx-effect: dropshadow(gaussian, rgba(0, 0, 0, 0.5), 13, 0.0, 0.0, 0.0); /* Тень */
+}
+
+.text-field {
+    -fx-background-color: #252525; /* Цвет фона */
+    -fx-border-color: #252525;      /* Цвет рамки */
+    -fx-border-radius: 45px;          /* Радиус скругления углов рамки */
+    -fx-text-fill: white;             /* Цвет текста */
+}
+
+.button {
+    -fx-background-color: #252525; /* Цвет фона */
+    -fx-border-radius: 45px;          /* Радиус скругления углов рамки */
+    -fx-text-fill: white;             /* Цвет текста */
+}
+
+.button:hover {
+    -fx-background-color: rgb(37, 37, 37, 0.5);
+}
+
+.buttonGui {
+    -fx-opacity: 1;
+    -fx-transition: opacity 0.3s ease; /* Плавный переход */
+}
+
+.buttonGui:hover {
+    -fx-opacity: 0.5;
+}
+
+.buttonGuiOff {
+    -fx-opacity: 1;
+    -fx-transition: opacity 0.3s ease; /* Плавный переход */
+}
+
