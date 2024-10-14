@@ -11,7 +11,7 @@
 
 ## About
 
-An autoclicker with an intuitive interface and modern design, complemented by visual effects for comfortable use.
+An autoclicker with an intuitive interface and modern design, complemented by visual effects for comfortable use. The configuration and files are publicly available, which makes it easy to customize and expand the functionality.
 
 Please note: the use of autoclickers may be contrary to the rules of various games and applications. The author of the application is not responsible for possible blockages. Please use the autoclicker responsibly.
 
