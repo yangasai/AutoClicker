@@ -4,8 +4,8 @@
 
 <p align="center">
  <img src="https://img.shields.io/badge/JavaFX-red" alt="[JavaFX Version]">
- <img src="https://img.shields.io/badge/Kotlin-2.0.0-blue" alt="[JavaFX Version]">
- <img src="https://img.shields.io/badge/AutoClicker-1.0-black" alt="[Application Version]">
+ <img src="https://img.shields.io/badge/Kotlin-blue" alt="[JavaFX Version]">
+ <img src="https://img.shields.io/badge/AutoClicker-black" alt="[Application Version]">
  <img src="https://img.shields.io/badge/License-MIT-pink" alt="[License]">
 </p>
 
