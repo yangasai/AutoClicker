@@ -11,7 +11,9 @@
 
 ## About
 
-Following the Light is a visual novel based on the key theme of the Everlasting Summer game. There are many new mechanics available in the game, an updated visual part and a reworking of the main plot with additions.
+An autoclicker with an intuitive interface and modern design, complemented by visual effects for comfortable use.
+
+Please note: the use of autoclickers may be contrary to the rules of various games and applications. The author of the application is not responsible for possible blockages. Please use the autoclicker responsibly.
 
 ## Gameplay
 <div style="overflow-x: auto;">
